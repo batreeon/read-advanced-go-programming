@@ -1,2 +1,2 @@
 package pkg
-var Id int64
+var Id int
